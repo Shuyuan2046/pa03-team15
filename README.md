@@ -40,6 +40,11 @@ Followed by entering localhost:5000 in your browser URL line.
 
 Direct link to repository:  https://github.com/Shuyuan2046/pa03-team15 
 
+<<<<<<< HEAD
 Movies: 
 
 Lingyu Liu: https://brandeis.zoom.us/rec/share/OiKxW3aiX4nNdE0OdBGXeao4Oka0IsGOh4z77XHRabyTnh-M7h1RAfIXOstPxEC5.b50R-ZF3sWVMq8rs 
+=======
+## Video 
+https://drive.google.com/file/d/1cT3xmN9kgbsVpQjqG0Hu0qtWdhy3-_vc/view?usp=sharing (Shuyuan Wang)
+>>>>>>> ca2430949045001c8d2fdd44e480b07d8a2beb4e
