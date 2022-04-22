@@ -40,3 +40,6 @@ Followed by entering localhost:5000 in your browser URL line.
 
 Direct link to repository:  https://github.com/Shuyuan2046/pa03-team15 
 
+Movies: 
+
+Lingyu Liu: https://brandeis.zoom.us/rec/share/OiKxW3aiX4nNdE0OdBGXeao4Oka0IsGOh4z77XHRabyTnh-M7h1RAfIXOstPxEC5.b50R-ZF3sWVMq8rs 
