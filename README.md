@@ -40,3 +40,5 @@ Followed by entering localhost:5000 in your browser URL line.
 
 Direct link to repository:  https://github.com/Shuyuan2046/pa03-team15 
 
+## Video 
+https://drive.google.com/file/d/1cT3xmN9kgbsVpQjqG0Hu0qtWdhy3-_vc/view?usp=sharing (Shuyuan Wang)
